@@ -1,0 +1,11 @@
+{
+  "description": "HorrorLauncher - Minecraft launcher",
+  "domain": "is-a.dev",
+  "subdomain": "horrorlauncher",
+  "owner": {
+    "username": "Enzo447-art"
+  },
+  "record": {
+    "CNAME": "horrorlauncher-site.onrender.com"
+  }
+}
